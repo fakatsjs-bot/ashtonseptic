@@ -1,0 +1,48 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How much does it cost to rent a porta potty in the United States?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The porta potty rental cost typically ranges from $150 to $500 per month for a standard unit, depending on your location and the frequency of servicing. Factors like portable restroom rental prices vary based on whether you need a daily or monthly contract.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How many porta potties do I need for 100 guests?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For a standard 8-hour event, we recommend at least two portable toilets for events per 100 guests. If you are serving alcohol, you may want to increase your portable bathroom rental count by 20% to avoid long lines.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Does a porta potty need a water source?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most standard porta potty units are self-contained and do not require a water hookup. However, if you rent a portable restroom trailer, you may need access to a garden hose or a dedicated water line to operate the sinks and flushing toilets.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How often are the portable toilets cleaned?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our nationwide standard includes weekly servicing for long-term rentals, which involves pumping the tank, sanitizing the interior, and restocking supplies. For high-traffic portable restrooms for events, we can provide daily or even on-site attendant servicing.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is the difference between a porta potty and a deluxe portable toilet?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A standard porta potty is a basic unit with a toilet and urinal. A deluxe portable toilet rental typically includes an interior sink with a foot pump, soap dispenser, and mirror, providing a more hygienic portable bathroom experience.</p>
+                <div class="callalooma mx-auto"><a href="tel:870306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
